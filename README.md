@@ -1,2 +1,3 @@
 # docker-configs
-Place to store my Docker configuration files
+This is a place where I can store my docker configuration files
+
